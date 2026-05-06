@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSprojects\\WiredBrainCoffee1\\WiredBrainCoffee\\WiredBrainCoffee.csproj": {}
+    "C:\\VSprojects\\WiredBrainCoffe\\WiredBrainCoffee.csproj": {}
   },
   "projects": {
-    "C:\\VSprojects\\WiredBrainCoffee1\\WiredBrainCoffee\\WiredBrainCoffee.csproj": {
+    "C:\\VSprojects\\WiredBrainCoffe\\WiredBrainCoffee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSprojects\\WiredBrainCoffee1\\WiredBrainCoffee\\WiredBrainCoffee.csproj",
+        "projectUniqueName": "C:\\VSprojects\\WiredBrainCoffe\\WiredBrainCoffee.csproj",
         "projectName": "WiredBrainCoffee",
-        "projectPath": "C:\\VSprojects\\WiredBrainCoffee1\\WiredBrainCoffee\\WiredBrainCoffee.csproj",
+        "projectPath": "C:\\VSprojects\\WiredBrainCoffe\\WiredBrainCoffee.csproj",
         "packagesPath": "C:\\Users\\40749\\.nuget\\packages\\",
-        "outputPath": "C:\\VSprojects\\WiredBrainCoffee1\\WiredBrainCoffee\\obj\\",
+        "outputPath": "C:\\VSprojects\\WiredBrainCoffe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,7 +29,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
+          "net8.0-windows": {
+            "framework": "net8.0-windows7.0",
             "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net8.0-windows7.0": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
           "targetAlias": "net8.0-windows",
           "imports": [
             "net461",
@@ -68,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

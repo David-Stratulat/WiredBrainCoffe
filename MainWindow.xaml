@@ -31,7 +31,7 @@
         <view:CustomersView Grid.Row ="2"/>
 
         <StatusBar Grid.Row="3" >
-            <StatusBarItem FontSize="20" Content=" (c) CNCN - XF 2024"/>
+            <StatusBarItem FontSize="20" Content=" (c) WiredBrainCoffe"/>
         </StatusBar>
 
     </Grid>
